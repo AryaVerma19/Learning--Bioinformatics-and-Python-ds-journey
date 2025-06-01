@@ -18,7 +18,7 @@ I'm passionate about integrating **AI and Bioinformatics** to build impactful so
 
 💡 _“From zero to innovator — documenting every step of my journey.”_
 
-📌 Connect with me on [LinkedIn] www.linkedin.com/in/
-arya-verma-555xyz
-Vanity URL name
+📌 Connect with me on [LinkedIn][www.linkedin.com/in/
+arya-verma-555xyz]
+
 
